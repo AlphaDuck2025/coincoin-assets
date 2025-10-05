@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Logo_CoinCoin" data-name="Logo CoinCoin" xmlns="http://www.w3.org/2000/svg" width="1023.98" height="1024.01" viewBox="0 0 1023.98 1024.01">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffe33d;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Cercle_jaune_poussin" data-name="Cercle jaune poussin">
+    <circle class="cls-1" cx="511.99" cy="512" r="512"/>
+  </g>
+  <g id="Ellipse_1" data-name="Ellipse 1">
+    <ellipse class="cls-2" cx="511.99" cy="511.98" rx="439.64" ry="434.84"/>
+  </g>
+  <g id="Ellipse_2" data-name="Ellipse 2">
+    <ellipse class="cls-1" cx="510.61" cy="511.98" rx="381.9" ry="371.01"/>
+  </g>
+  <g id="Rectangle_jaune_haut" data-name="Rectangle jaune haut">
+    <rect class="cls-1" x="366.24" y="77.14" width="288.74" height="92.48"/>
+  </g>
+  <g id="Rectangle_jaune_bas" data-name="Rectangle jaune bas">
+    <rect class="cls-1" x="366.24" y="854.69" width="288.74" height="92.48"/>
+  </g>
+  <g id="Barre_blanche_haut_gauche" data-name="Barre blanche haut gauche">
+    <rect class="cls-2" x="423.99" y="76.8" width="57.75" height="138.71"/>
+  </g>
+  <g id="Barre_blanche_haut_droit" data-name="Barre blanche haut droit">
+    <rect class="cls-2" x="542.24" y="76.8" width="57.75" height="138.71"/>
+  </g>
+  <g id="Barre_blanche_bas_gauche" data-name="Barre blanche bas gauche">
+    <rect class="cls-2" x="423.99" y="808.45" width="57.75" height="138.71"/>
+  </g>
+  <g id="Barre_blanche_bas_droit" data-name="Barre blanche bas droit">
+    <rect class="cls-2" x="542.24" y="808.45" width="57.75" height="138.71"/>
+  </g>
+  <g id="Canard">
+    <path class="cls-3" d="M646.73,454.87c38.22-1.14,87.47-16.43,93.5-40.8,0,0-92.35-1.55-99-59.84-15.68-137.44-260.43-142.29-258.49,35.36,1.02,93.32,88.27,81.45,11,127.83-52.1,31.28-125.04,5.03-142.99-2.72-16.17-6.98-29.4,257.91,239.24,258.39,196.76.35,193.02-173.8,192.49-187.67-1.65-43.96-23.61-69.69-60.5-95.2-19.85-13.73-7.06-34.41,24.75-35.36Z"/>
+  </g>
+</svg>
